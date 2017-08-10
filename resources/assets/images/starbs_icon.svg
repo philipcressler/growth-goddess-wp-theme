@@ -1,0 +1,627 @@
+<svg width="60" height="141" viewBox="0 0 60 141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-79 -145)">
+<g id="Group">
+<g id="Group">
+<g id="Group">
+<g id="Group">
+<g id="Group">
+<g id="Group">
+<g id="Rectangle 46">
+<use xlink:href="#path0_fill" transform="translate(83.7515 191.754)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle 45">
+<use xlink:href="#path1_fill" transform="matrix(0.99666 -0.0816652 0.0823067 0.996607 100.222 145.574)" fill="#006934"/>
+<mask id="mask0_outline_ins">
+<use xlink:href="#path1_fill" fill="white" transform="matrix(0.99666 -0.0816652 0.0823067 0.996607 100.222 145.574)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path2_stroke_2x" transform="matrix(0.99666 -0.0816652 0.0823067 0.996607 100.222 145.574)" fill="#154902"/>
+</g>
+</g>
+<g id="Rectangle 46">
+<use xlink:href="#path3_fill" transform="translate(82 188)" fill="#B75D5D" fill-opacity="0.5"/>
+</g>
+<g id="Rectangle 44">
+<use xlink:href="#path4_fill" transform="translate(79 181)" fill="#FCE3E3"/>
+<mask id="mask1_outline_ins">
+<use xlink:href="#path4_fill" fill="white" transform="translate(79 181)"/>
+</mask>
+<g mask="url(#mask1_outline_ins)">
+<use xlink:href="#path5_stroke_2x" transform="translate(79 181)" fill="#5D2020"/>
+</g>
+</g>
+<g id="Rectangle 47">
+<use xlink:href="#path6_fill" transform="translate(83.1854 192.662)" fill="#D50503" fill-opacity="0.7"/>
+</g>
+<g id="Rectangle 47">
+<use xlink:href="#path7_fill" transform="translate(118 194)" fill="#3D2C2C" fill-opacity="0.2"/>
+</g>
+<g id="Rectangle 47">
+<use xlink:href="#path8_fill" transform="matrix(-1 0 0 1 99 193)" fill="#F2F2F2" fill-opacity="0.2"/>
+</g>
+<g id="Group">
+<g id="Group">
+<g id="Rectangle 48">
+<use xlink:href="#path9_fill" transform="matrix(0.988099 -0.153821 0.155008 0.987913 86.2693 200.182)" fill="#FCE3E3" fill-opacity="0.1"/>
+</g>
+<g id="Rectangle 48">
+<use xlink:href="#path10_fill" transform="matrix(0.988099 -0.153821 0.155008 0.987913 88.7213 202.11)" fill="#FFFFFF" fill-opacity="0.2"/>
+</g>
+</g>
+<g id="Group">
+<g id="Rectangle 48">
+<use xlink:href="#path11_fill" transform="matrix(0.679426 0.734502 -0.736345 0.675786 99.7428 241.9)" fill="#F48383" fill-opacity="0.43"/>
+</g>
+<g id="Rectangle 48">
+<use xlink:href="#path12_fill" transform="matrix(0.679426 0.734502 -0.736345 0.675786 99.4966 245.002)" fill="#FCE3E3" fill-opacity="0.2"/>
+</g>
+</g>
+<g id="Group">
+<g id="Rectangle 48">
+<use xlink:href="#path11_fill" transform="matrix(0.679426 0.734502 -0.736345 0.675786 121.724 200)" fill="#F48383" fill-opacity="0.54"/>
+</g>
+<g id="Rectangle 48">
+<use xlink:href="#path13_fill" transform="matrix(0.679426 0.734502 -0.736345 0.675786 121.478 203.102)" fill="#FCE3E3" fill-opacity="0.2"/>
+</g>
+<g id="Group">
+<g id="Rectangle 48">
+<use xlink:href="#path14_fill" transform="matrix(0.901271 0.437259 -0.438523 0.896784 105.195 202)" fill="#FFFFFF" fill-opacity="0.1"/>
+</g>
+<g id="Rectangle 48">
+<use xlink:href="#path15_fill" transform="matrix(0.901271 0.437259 -0.438523 0.896784 106.101 204.978)" fill="#FCE3E3" fill-opacity="0.2"/>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Rectangle 48">
+<use xlink:href="#path11_fill" transform="matrix(0.679426 0.734502 -0.736345 0.675786 96.036 207.843)" fill="#FFFFFF" fill-opacity="0.1"/>
+</g>
+<g id="Rectangle 48">
+<use xlink:href="#path12_fill" transform="matrix(0.679426 0.734502 -0.736345 0.675786 95.7898 210.945)" fill="#FCE3E3" fill-opacity="0.2"/>
+</g>
+<g id="Group">
+<g id="Rectangle 48">
+<use xlink:href="#path11_fill" transform="matrix(0.679426 0.734502 -0.736345 0.675786 126.535 210.375)" fill="#FFFFFF" fill-opacity="0.1"/>
+</g>
+<g id="Rectangle 48">
+<use xlink:href="#path12_fill" transform="matrix(0.679426 0.734502 -0.736345 0.675786 126.289 213.477)" fill="#FCE3E3" fill-opacity="0.2"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Ellipse 16">
+<use xlink:href="#path16_fill" transform="matrix(0.416044 -0.909345 0.909345 0.416044 94.1427 221.694)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path16_fill" transform="matrix(0.416044 -0.909345 0.909345 0.416044 95.123 219.551)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path16_fill" transform="matrix(0.416044 -0.909345 0.909345 0.416044 96.2853 222.674)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path16_fill" transform="matrix(0.416044 -0.909345 0.909345 0.416044 97.2657 220.531)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path16_fill" transform="matrix(0.416044 -0.909345 0.909345 0.416044 92.9803 218.571)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path16_fill" transform="matrix(0.416044 -0.909345 0.909345 0.416044 93.9606 216.428)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path16_fill" transform="matrix(0.416044 -0.909345 0.909345 0.416044 96.1033 217.408)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path16_fill" transform="matrix(0.416044 -0.909345 0.909345 0.416044 98.246 218.389)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path16_fill" transform="matrix(0.416044 -0.909345 0.909345 0.416044 97.0836 215.266)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path16_fill" transform="matrix(0.416044 -0.909345 0.909345 0.416044 99.2263 216.246)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path16_fill" transform="matrix(0.416044 -0.909345 0.909345 0.416044 99.4083 221.512)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path16_fill" transform="matrix(0.416044 -0.909345 0.909345 0.416044 100.389 219.369)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path16_fill" transform="matrix(0.416044 -0.909345 0.909345 0.416044 94.941 214.285)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path16_fill" transform="matrix(0.416044 -0.909345 0.909345 0.416044 94.1427 221.694)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+</g>
+<g id="Group">
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(121 198)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(123 198)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(121 200)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(123 200)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(123 196)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(125 196)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(125 198)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(125 200)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(127 198)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(127 200)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(123 202)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(125 202)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(127 196)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(121 198)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+</g>
+<g id="Group">
+<g id="Rectangle 48">
+<use xlink:href="#path11_fill" transform="matrix(0.679426 0.734502 -0.736345 0.675786 90.953 207.843)" fill="#FFFFFF" fill-opacity="0.1"/>
+</g>
+<g id="Rectangle 48">
+<use xlink:href="#path12_fill" transform="matrix(0.679426 0.734502 -0.736345 0.675786 90.7068 210.945)" fill="#FCE3E3" fill-opacity="0.2"/>
+</g>
+<g id="Group">
+<g id="Group">
+<g id="Rectangle 48">
+<use xlink:href="#path18_fill" transform="matrix(-0.206077 0.976453 -0.980766 -0.205362 137.169 206.017)" fill="#FFFFFF" fill-opacity="0.1"/>
+</g>
+<g id="Rectangle 48">
+<use xlink:href="#path19_fill" transform="matrix(-0.206077 0.976453 -0.980766 -0.205362 134.49 207.618)" fill="#FCE3E3" fill-opacity="0.1"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Rectangle 43">
+<mask id="mask2_outline_ins">
+<use xlink:href="#path20_fill" fill="white" transform="translate(81 186)"/>
+</mask>
+<g mask="url(#mask2_outline_ins)">
+<use xlink:href="#path21_stroke_2x" transform="translate(81 186)" fill="#5D2020"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Ellipse 16">
+<use xlink:href="#path22_fill" transform="translate(115 206)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path22_fill" transform="translate(116 206)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path22_fill" transform="translate(115 207)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path22_fill" transform="translate(116 207)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path22_fill" transform="translate(116 205)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path22_fill" transform="translate(117 205)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path22_fill" transform="translate(117 206)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path22_fill" transform="translate(117 207)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path22_fill" transform="translate(118 206)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path22_fill" transform="translate(118 207)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path22_fill" transform="translate(116 208)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path22_fill" transform="translate(117 208)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path22_fill" transform="translate(118 205)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path22_fill" transform="translate(115 206)" fill="#46191F" fill-opacity="0.6"/>
+</g>
+</g>
+<g id="Group">
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(112 205.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(114.2 205.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(112 207.4)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(114.2 207.4)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(114.2 203)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(116.4 203)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(116.4 205.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(116.4 207.4)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(118.6 205.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(118.6 207.4)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(114.2 209.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(116.4 209.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(118.6 203)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(112 205.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+</g>
+<g id="Group">
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(100 204.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(102.2 204.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(100 206.4)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(102.2 206.4)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(102.2 202)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(104.4 202)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(104.4 204.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(104.4 206.4)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(106.6 204.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(106.6 206.4)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(102.2 208.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(104.4 208.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(106.6 202)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path23_fill" transform="translate(100 204.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+</g>
+<g id="Group">
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(103 196.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(105.6 196.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(103 199.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(105.6 199.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(105.6 194)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(108.2 194)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(108.2 196.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(108.2 199.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(110.8 196.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(110.8 199.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(105.6 201.8)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(108.2 201.8)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(110.8 194)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(103 196.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+</g>
+<g id="Group">
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(93 193.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(95.6 193.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(93 196.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(95.6 196.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(95.6 191)" fill="#5D2020" fill-opacity="0.8"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(98.2 191)" fill="#5D2020" fill-opacity="0.8"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(98.2 193.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(98.2 196.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(100.8 193.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(100.8 196.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(95.6 198.8)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(98.2 198.8)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(100.8 191)" fill="#5D2020" fill-opacity="0.8"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(93 193.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Group">
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(114 193.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(116.6 193.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(114 196.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(116.6 196.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(116.6 191)" fill="#5D2020" fill-opacity="0.9"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(119.2 191)" fill="#5D2020" fill-opacity="0.9"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(119.2 193.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(119.2 196.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(121.8 193.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(121.8 196.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(116.6 198.8)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(119.2 198.8)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(122 192)" fill="#5D2020" fill-opacity="0.9"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path24_fill" transform="translate(114 193.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+</g>
+</g>
+<g id="Rectangle 46">
+<use xlink:href="#path25_fill" transform="translate(129 184)" fill="#B75D5D" fill-opacity="0.5"/>
+</g>
+<g id="Group">
+<g id="Ellipse 16">
+<use xlink:href="#path26_fill" transform="translate(91 201.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path26_fill" transform="translate(92.6 201.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path26_fill" transform="translate(91 203.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path26_fill" transform="translate(92.6 203.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path26_fill" transform="translate(92.6 200)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path26_fill" transform="translate(94.2 200)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path26_fill" transform="translate(94.2 201.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path26_fill" transform="translate(94.2 203.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path26_fill" transform="translate(95.8 201.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path26_fill" transform="translate(95.8 203.2)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path26_fill" transform="translate(92.6 204.8)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path26_fill" transform="translate(94.2 204.8)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path26_fill" transform="translate(95.8 200)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path26_fill" transform="translate(91 201.6)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+</g>
+<g id="Group">
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(86 196)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(88 196)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(86 198)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(88 198)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(88 194)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(90 194)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(90 196)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(90 198)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(92 196)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(92 198)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(88 200)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(90 200)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(92 194)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+<g id="Ellipse 16">
+<use xlink:href="#path17_fill" transform="translate(86 196)" fill="#5D2020" fill-opacity="0.5"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="starbucks-logo-by-svgstock">
+<g id="layer1">
+<g id="g9796-9">
+<g id="g4387-9">
+<g id="path3040-2">
+<use xlink:href="#path27_fill" transform="matrix(1.76812 0 0 1.76812 93 213)" fill="#FCE3E3"/>
+</g>
+<g id="g4381-9">
+<g id="inner_artwork-1">
+<use xlink:href="#path28_fill" transform="matrix(1.76812 0 0 1.76812 93.144 213.161)" fill="#007042"/>
+</g>
+<g id="g4377-3">
+<g id="rect3815-0" opacity="0.99">
+<use xlink:href="#path29_fill" transform="matrix(1.76812 0 0 1.76812 108.104 226.949)" fill="#FCE3E3"/>
+</g>
+<g id="path3032-6-8">
+<use xlink:href="#path30_fill" transform="matrix(1.76812 0 0 1.76812 108.554 227.231)" fill="#007042"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 50.8326 0L 50.8326 12.6582L 0 12.6582L 0 0Z"/>
+<path id="path1_fill" d="M 0.0195565 2.37818C 0.0085716 1.32011 0.823633 0.436572 1.87916 0.362348L 4.89066 0.15058C 6.04801 0.0691955 7.03153 0.986444 7.03096 2.14665L 6.98463 95.2741C 6.98411 96.3152 6.18508 97.1817 5.1475 97.2665L 3.14867 97.4298C 1.99197 97.5243 0.99795 96.6177 0.985902 95.4572L 0.0195565 2.37818Z"/>
+<path id="path2_stroke_2x" d="M 1.87916 0.362348L 2.01945 2.35742L 1.87916 0.362348ZM 5.1475 97.2665L 4.98463 95.2731L 5.1475 97.2665ZM 2.01945 2.35742L 5.03096 2.14565L 4.75037 -1.84449L 1.73886 -1.63273L 2.01945 2.35742ZM 5.03096 2.14565L 4.98463 95.2731L 8.98463 95.2751L 9.03095 2.14764L 5.03096 2.14565ZM 4.98463 95.2731L 2.98579 95.4365L 3.31154 99.4232L 5.31038 99.2598L 4.98463 95.2731ZM 2.98579 95.4365L 2.01945 2.35742L -1.98034 2.39895L -1.01399 95.478L 2.98579 95.4365ZM 1.73886 -1.63273C -0.372183 -1.48428 -2.00231 0.282802 -1.98034 2.39895L 2.01945 2.35742L 2.01945 2.35742L 1.73886 -1.63273ZM 5.03096 2.14565L 5.03096 2.14565L 9.03095 2.14764C 9.03211 -0.172765 7.06506 -2.00726 4.75037 -1.84449L 5.03096 2.14565ZM 4.98463 95.2731L 4.98463 95.2731L 5.31038 99.2598C 7.38553 99.0903 8.9836 97.3572 8.98463 95.2751L 4.98463 95.2731ZM 2.98579 95.4365L 2.98579 95.4365L -1.01399 95.478C -0.989894 97.799 0.998138 99.6122 3.31154 99.4232L 2.98579 95.4365Z"/>
+<path id="path3_fill" d="M 0 0L 54 0L 54 4L 0 4L 0 0Z"/>
+<path id="path4_fill" d="M 0 2C 0 0.895431 0.895431 0 2 0L 58 0C 59.1046 0 60 0.895431 60 2L 60 6C 60 7.10457 59.1046 8 58 8L 2 8C 0.895431 8 0 7.10457 0 6L 0 2Z"/>
+<path id="path5_stroke_2x" d="M 2 3L 58 3L 58 -3L 2 -3L 2 3ZM 57 2L 57 6L 63 6L 63 2L 57 2ZM 58 5L 2 5L 2 11L 58 11L 58 5ZM 3 6L 3 2L -3 2L -3 6L 3 6ZM 2 -3C -0.761424 -3 -3 -0.761424 -3 2L 3 2C 3 2.55228 2.55228 3 2 3L 2 -3ZM 58 3C 57.4477 3 57 2.55228 57 2L 63 2C 63 -0.761424 60.7614 -3 58 -3L 58 3ZM 57 6C 57 5.44772 57.4477 5 58 5L 58 11C 60.7614 11 63 8.76142 63 6L 57 6ZM 2 5C 2.55228 5 3 5.44772 3 6L -3 6C -3 8.76142 -0.761424 11 2 11L 2 5Z"/>
+<path id="path6_fill" d="M 0.121043 4.1309C -0.601279 0.194814 2.00811 0.338074 5.31458 1.83807C 8.62104 3.33807 12.6466 0.371733 17.3146 1.33808C 27.086 3.36091 29.9077 -0.259151 36.3146 2.33806C 43.4128 2.99959 47.9973 2.95137 50.8146 0.338076C 54.8146 -0.661913 49.9288 0.543161 51.8146 4.1309L 43.8146 91.3381L 7.81458 91.3381L 0.121043 4.1309Z"/>
+<path id="path7_fill" d="M 8.87358 89L 16.5 0L 8.87358 1.5C 4.22748 61.0237 1.5 81.5 0 90L 8.87358 89Z"/>
+<path id="path8_fill" d="M 5.62336 90.4972L 15 0L 6.34615 2.01105C 0.985278 61.8636 0.576923 83.4586 0 91L 5.62336 90.4972Z"/>
+<path id="path9_fill" d="M 0.35591 0.649988C 4.70796 -0.0893072 7.06091 -0.335331 10.5215 0.649988C 9.74854 4.84469 9.95323 6.99865 10.5215 10.7775C 9.0676 12.1507 6.89133 12.1777 0.35591 10.7775C -0.146701 6.84679 -0.0897184 4.62661 0.35591 0.649988Z"/>
+<path id="path10_fill" d="M 0.209694 0.410019C 2.77382 -0.0563359 4.16013 -0.21153 6.19902 0.410019C 5.74362 3.05608 5.86422 4.41482 6.19902 6.79855C 5.34243 7.66478 4.06022 7.68182 0.209694 6.79855C -0.0864327 4.31903 -0.0528601 2.91851 0.209694 0.410019Z"/>
+<path id="path11_fill" d="M 0.35499 0.651677C 4.69578 -0.0895392 7.04265 -0.336203 10.4943 0.651677C 9.72333 4.85728 9.92749 7.01684 10.4943 10.8055C 9.04415 12.1823 6.87351 12.2093 0.35499 10.8055C -0.146321 6.86458 -0.0894865 4.63863 0.35499 0.651677Z"/>
+<path id="path12_fill" d="M 0.209152 0.411084C 2.76665 -0.0564823 4.14937 -0.21208 6.18299 0.411084C 5.72877 3.06402 5.84906 4.42629 6.18299 6.81621C 5.32861 7.6847 4.04972 7.70178 0.209152 6.81621C -0.0862092 4.33025 -0.0527234 2.92609 0.209152 0.411084Z"/>
+<path id="path13_fill" d="M 0.209152 0.411084C 2.76665 -0.0564823 4.14937 -0.21208 6.18299 0.411084C 5.72877 3.06402 5.84906 4.42629 6.18299 6.81621C 5.32861 7.6847 4.04972 7.70178 0.209152 6.81621C -0.0862092 4.33025 -0.0527234 2.92609 0.209152 0.411084Z"/>
+<path id="path14_fill" d="M 0.355058 0.651553C 4.69668 -0.0895222 7.04399 -0.336139 10.4963 0.651553C 9.72519 4.85636 9.92939 7.0155 10.4963 10.8034C 9.04588 12.1799 6.87482 12.207 0.355058 10.8034C -0.146349 6.86328 -0.0895035 4.63775 0.355058 0.651553Z"/>
+<path id="path15_fill" d="M 0.209192 0.411006C 2.76718 -0.0564715 4.15016 -0.21204 6.18417 0.411006C 5.72986 3.06344 5.85017 4.42545 6.18417 6.81492C 5.32963 7.68324 4.05049 7.70032 0.209192 6.81492C -0.0862257 4.32943 -0.0527335 2.92554 0.209192 0.411006Z"/>
+<path id="path16_fill" d="M 4.71258 2.35629C 4.71258 3.65764 3.65764 4.71258 2.35629 4.71258C 1.05495 4.71258 0 3.65764 0 2.35629C 0 1.05495 1.05495 0 2.35629 0C 3.65764 0 4.71258 1.05495 4.71258 2.35629Z"/>
+<path id="path17_fill" d="M 4 2C 4 3.10457 3.10457 4 2 4C 0.895431 4 0 3.10457 0 2C 0 0.895431 0.895431 0 2 0C 3.10457 0 4 0.895431 4 2Z"/>
+<path id="path18_fill" d="M 0.355328 0.651058C 4.70025 -0.0894542 7.04935 -0.335884 10.5043 0.651058C 9.73258 4.85267 9.93694 7.01018 10.5043 10.7952C 9.05276 12.1707 6.88005 12.1978 0.355328 10.7952C -0.14646 6.85807 -0.0895716 4.63422 0.355328 0.651058Z"/>
+<path id="path19_fill" d="M 0.209351 0.410694C 2.76928 -0.0564286 4.15332 -0.211879 6.18887 0.410694C 5.73422 3.06111 5.85462 4.42209 6.18887 6.80974C 5.33368 7.6774 4.05357 7.69447 0.209351 6.80974C -0.0862912 4.32614 -0.0527736 2.92332 0.209351 0.410694Z"/>
+<path id="path20_fill" d="M 0 0L 56 0L 46.672 98.1891C 46.5745 99.2158 45.7123 100 44.681 100L 11.319 100C 10.2877 100 9.4255 99.2158 9.32797 98.1891L 0 0Z"/>
+<path id="path21_stroke_2x" d="M 0 0L 0 -3L -3.29851 -3L -2.98655 0.283723L 0 0ZM 56 0L 58.9866 0.283723L 59.2985 -3L 56 -3L 56 0ZM 46.672 98.1891L 49.6586 98.4729L 46.672 98.1891ZM 0 3L 56 3L 56 -3L 0 -3L 0 3ZM 53.0134 -0.283723L 43.6855 97.9054L 49.6586 98.4729L 58.9866 0.283723L 53.0134 -0.283723ZM 44.681 97L 11.319 97L 11.319 103L 44.681 103L 44.681 97ZM 12.3145 97.9054L 2.98655 -0.283723L -2.98655 0.283723L 6.34142 98.4729L 12.3145 97.9054ZM 43.6855 97.9054C 43.7342 97.3921 44.1653 97 44.681 97L 44.681 103C 47.2592 103 49.4147 101.04 49.6586 98.4729L 43.6855 97.9054ZM 11.319 97C 11.8347 97 12.2658 97.3921 12.3145 97.9054L 6.34142 98.4729C 6.58525 101.04 8.74076 103 11.319 103L 11.319 97Z"/>
+<path id="path22_fill" d="M 2 1C 2 1.55228 1.55228 2 1 2C 0.447715 2 0 1.55228 0 1C 0 0.447715 0.447715 0 1 0C 1.55228 0 2 0.447715 2 1Z"/>
+<path id="path23_fill" d="M 4.4 2.2C 4.4 3.41503 3.41503 4.4 2.2 4.4C 0.984974 4.4 0 3.41503 0 2.2C 0 0.984974 0.984974 0 2.2 0C 3.41503 0 4.4 0.984974 4.4 2.2Z"/>
+<path id="path24_fill" d="M 5.2 2.6C 5.2 4.03594 4.03594 5.2 2.6 5.2C 1.16406 5.2 0 4.03594 0 2.6C 0 1.16406 1.16406 0 2.6 0C 4.03594 0 5.2 1.16406 5.2 2.6Z"/>
+<path id="path25_fill" d="M 0.5 0L 7 0L 7 2L 0 2L 0.5 0Z"/>
+<path id="path26_fill" d="M 3.2 1.6C 3.2 2.48366 2.48366 3.2 1.6 3.2C 0.716344 3.2 0 2.48366 0 1.6C 0 0.716344 0.716344 0 1.6 0C 2.48366 0 3.2 0.716344 3.2 1.6Z"/>
+<path id="path27_fill" d="M 18.6638 9.33192C 18.6638 14.4858 14.4858 18.6638 9.33195 18.6638C 4.17807 18.6638 0 14.4859 0 9.33192C 0 4.17808 4.17807 0 9.33195 0C 14.4858 0 18.6638 4.17808 18.6638 9.33192Z"/>
+<path id="path28_fill" d="M 9.17128 3.22551C 9.49979 3.41389 9.84825 3.65633 10.1135 3.91326L 10.0093 4.01744C 9.48586 3.96207 8.93455 4.03117 8.43833 4.03879C 8.38299 3.98323 8.2715 3.89971 8.37534 3.82993L 9.17128 3.22551L 9.17128 3.22551ZM 18.4269 9.69462C 18.4339 9.9297 18.4561 10.1316 18.3639 10.3721C 17.4076 10.6427 16.7795 9.63538 15.8516 9.78732L 15.9565 10.3095C 16.8149 10.3376 17.3511 11.1565 18.238 11.1213C 18.112 11.3717 18.2942 12.0313 17.736 11.7676C 17.1566 11.6291 16.7376 11.1213 16.1027 11.1213C 16.0261 11.2613 16.0746 11.455 16.0612 11.6206C 16.731 11.7251 17.2127 12.2883 17.8823 12.3923C 17.8194 12.6213 17.7569 12.8776 17.5683 13.0173C 17.0235 12.8854 16.598 12.3986 16.018 12.4125L 15.9148 12.892C 16.466 12.9061 16.8221 13.3912 17.3174 13.5369C 17.331 13.7391 17.1493 13.9198 17.0447 14.1003C 16.6049 13.969 16.2696 13.5931 15.7671 13.6208C 15.7602 13.4325 15.8726 13.2187 15.8301 13.0173C 15.2658 13.1843 14.8874 12.6626 14.4692 12.3497C 14.4572 11.3257 13.3736 10.6539 13.3164 9.69462C 13.3054 9.50336 13.3347 9.29918 13.4223 9.07977C 13.7784 8.26056 13.6666 7.19697 13.2761 6.43319C 13.1574 6.2322 12.9472 6.07352 12.7512 5.95536C 13.0379 6.55978 13.3872 7.27394 13.2129 8.01687C 13.1927 8.59058 12.8524 9.14157 12.8485 9.69462C 12.8472 9.89181 12.8895 10.089 13.0035 10.2881C 13.4575 11.1016 14.2743 11.8716 13.9672 12.8918C 13.8827 13.2052 13.6312 13.4475 13.5685 13.7664C 14.0996 14.204 14.6018 14.6972 15.3065 14.7249C 15.5576 14.5654 15.4181 13.8578 15.9347 14.1842L 16.6889 14.5595C 16.6339 14.7604 16.4649 14.9404 16.3118 15.0787C 16.0256 14.9402 15.7465 14.7741 15.3897 14.7876C 15.2845 14.8986 15.1939 15.0233 15.202 15.1827C 15.4531 15.2238 15.6834 15.3292 15.8931 15.4753C 15.7958 15.684 15.606 15.8147 15.4315 15.9745L 14.8464 15.7664C 14.7487 15.9055 14.5458 16.0516 14.617 16.2042C 14.749 16.2605 14.8955 16.3365 14.9927 16.434C 14.7344 16.7117 14.4071 16.8903 14.0921 17.0788C 13.8208 16.1966 12.927 15.5781 13.0037 14.5579L 12.9622 14.5166C 12.752 14.7516 12.8223 15.1275 12.8358 15.4325C 13.0873 16.0715 13.6871 16.565 13.7781 17.2658C 13.673 17.4461 13.4362 17.4821 13.2546 17.5584C 13.2757 16.295 11.3495 15.3368 12.5847 14.0588C 12.9967 13.4331 13.6869 12.8359 13.4423 11.9744C 13.1912 11.1425 12.3031 10.6271 12.311 9.69462L 12.3124 9.6219C 12.5146 8.64944 13.1291 7.61469 12.6264 6.58019C 12.4863 6.16409 12.1733 5.69126 11.7476 5.51735C 12.3823 6.24018 12.634 7.41957 12.2708 8.39221C 12.0878 8.77909 11.8358 9.24001 11.8106 9.69481L 11.809 9.69481C 11.7956 9.93232 11.8443 10.1685 11.9983 10.3925C 12.4803 11.1705 13.3174 12.0251 12.8359 13.039C 12.2915 13.8511 11.3423 14.6772 11.8724 15.7468C 12.2563 16.3856 12.8501 17.0231 12.6899 17.8084L 12.0617 18.0165C 12.4805 16.5517 10.4282 15.6911 11.2874 14.2258C 11.8178 13.4412 12.7664 12.705 12.2294 11.6636C 11.9084 11.0184 11.245 10.6365 11.266 9.83014L 11.2888 9.69474C 11.5049 8.55113 12.3787 7.46863 11.7678 6.24655C 11.6072 5.8857 11.2863 5.51779 10.9302 5.3093L 10.9087 5.33071C 11.621 6.01815 11.8377 7.14922 11.4537 8.05844C 11.2745 8.59189 10.8812 9.12328 10.8013 9.69493C 10.7633 9.96447 10.7953 10.2438 10.9519 10.5381C 11.4055 11.2527 12.201 12.0108 11.7046 12.9348C 11.1818 13.6979 10.3091 14.4405 10.6577 15.4329C 11.0417 16.3012 11.8434 17.1283 11.4105 18.205L 10.7623 18.3506C 11.2786 17.3014 10.5045 16.2602 10.051 15.3503C 9.49929 14.0447 11.2363 13.4196 11.2641 12.226C 11.2576 11.4556 10.4343 11.0181 10.2603 10.3099C 9.90403 10.0108 9.53474 10.4288 9.10878 10.3512C 8.79433 10.4141 8.31134 9.92058 8.12362 10.4555C 7.90007 11.2398 6.88166 11.8164 7.32925 12.7466C 7.75514 13.5732 8.78008 14.1777 8.4377 15.2475C 8.13115 16.2467 7.11851 17.1981 7.74655 18.3506C 7.48855 18.2674 7.00676 18.4266 7.01373 18.0166C 6.61607 16.6209 8.31184 15.8078 7.78808 14.4129C 7.54433 13.5585 6.43375 13.0864 6.67825 12.0588C 6.85901 11.2129 7.81311 10.6215 7.67929 9.69487C 7.66843 9.61728 7.64923 9.53788 7.62182 9.45511C 7.2657 8.45519 6.53915 7.45502 6.97219 6.288C 7.09109 5.95467 7.32856 5.67003 7.53724 5.3721C 6.84621 5.74001 6.49762 6.51796 6.51192 7.30939C 6.48181 8.17005 7.12083 8.90731 7.21174 9.69487C 7.2475 10.0127 7.19517 10.3382 6.97219 10.6834C 6.51889 11.2954 5.92604 11.9406 6.19784 12.7464C 6.45627 13.5592 7.47519 14.0516 7.41239 14.9963C 7.40548 16.1139 6.10028 16.8097 6.4702 18.0595L 5.82058 17.8498C 5.56265 16.7392 6.74896 16.171 6.76257 15.1434C 6.93047 13.9617 5.41558 13.5233 5.50649 12.3714C 5.49997 11.4961 6.27432 10.9419 6.61632 10.2057C 6.67499 10.0265 6.6945 9.85723 6.68666 9.69493C 6.64475 8.88096 5.90753 8.24458 6.02988 7.32943C 6.07104 6.65591 6.30136 6.06553 6.74124 5.55899C 6.13434 5.80155 5.88363 6.49661 5.71599 7.08C 5.42505 8.01544 6.11954 8.85687 6.18918 9.69499C 6.22005 10.0651 6.12914 10.4331 5.7791 10.8093C 5.27629 11.3988 4.7664 12.1426 5.12942 12.9349C 5.51383 13.8091 6.72154 14.4895 6.19771 15.5799C 5.91193 16.2675 5.22761 16.7879 5.25572 17.6001C 5.07439 17.5237 4.88629 17.4475 4.7322 17.309C 4.7322 16.2746 6.21127 15.6285 5.50655 14.5383C 5.44413 14.7534 5.4307 15.0457 5.38183 15.2887C 5.13726 15.9209 4.614 16.427 4.41818 17.0805C 4.09073 16.9548 3.74835 16.6906 3.47599 16.4129L 3.85326 16.1832C 3.81135 16.0441 3.69986 15.9262 3.60236 15.8081C 3.35735 15.7739 3.19648 15.9338 2.99452 15.9964C 2.82003 15.8434 2.65164 15.7044 2.51254 15.517C 2.63777 15.1621 3.61628 15.4556 3.12057 14.8721C 2.7859 14.6639 2.44999 14.9613 2.15692 15.1001L 1.75964 14.6009C 2.10165 14.3928 2.44277 14.1005 2.86816 14.1843C 2.973 14.3721 2.98028 14.6483 3.18224 14.7464C 3.90126 14.7325 4.41071 14.1914 4.9619 13.7677C 4.57773 13.199 4.26503 12.4139 4.60628 11.7261C 4.87971 11.0369 5.59213 10.4565 5.62445 9.69456C 5.63172 9.52115 5.60456 9.3387 5.52833 9.14232C 5.15163 8.17698 5.01868 6.87232 5.73769 6.0179C 5.34675 6.1224 5.11624 6.60716 4.98342 6.97525C 4.55119 7.91787 5.09786 8.79114 5.11674 9.6945C 5.11932 9.85698 5.10608 10.0198 5.06649 10.1839C 4.69644 10.9268 4.09688 11.5787 3.99951 12.4336C 3.57362 12.7039 3.22396 13.1765 2.61713 13.017C 2.5958 13.1766 2.64467 13.4198 2.70032 13.6005C 2.2191 13.5804 1.89096 13.9332 1.48578 14.0999C 1.26995 14.031 1.21379 13.7534 1.13022 13.5592C 1.60448 13.3998 1.94661 12.9268 2.49114 12.9343C 2.55426 12.7598 2.45576 12.5999 2.42796 12.4335C 1.75061 12.1343 0.676916 13.9121 0.586631 12.3708C 1.26348 12.3291 1.69602 11.704 2.36635 11.6417L 2.38637 11.1425C 1.62563 11.066 1.13625 11.8441 0.375821 11.7674L 0.208113 11.1012C 1.08775 11.1558 1.61182 10.3716 2.44955 10.3294C 2.56085 10.1837 2.57428 9.96846 2.59573 9.76728C 1.68134 9.64874 1.05387 10.6569 0.0833832 10.3507C 0.0833832 10.3507 0.0499421 9.93113 0.0318098 9.69456L 0.0331274 9.69456C 0.0265396 9.60205 0.0202654 9.53757 0.0202654 9.53757C 0.885657 9.87165 1.64602 9.25324 2.38637 8.93402C 2.57465 8.87797 2.86828 8.97516 2.95273 8.76705C 2.94539 8.60731 3.23821 8.42055 2.99445 8.30906C 1.9121 8.16294 1.19309 9.46173 0.0832577 8.87116L 1.07703e-09 8.70419C 0.230888 5.56598 2.00986 2.53195 4.9619 1.0389C 6.1575 0.359138 7.64283 0.0126399 9.14078 0.000342978C 10.9485 -0.0145756 12.7752 0.457201 14.1341 1.41418C 15.4536 2.21947 16.7159 3.5466 17.4009 4.89383C 18.056 6.07421 18.3575 7.39872 18.4476 8.8088C 17.3027 9.66946 16.5346 7.99796 15.3687 8.37205C 15.4315 8.55294 15.4663 8.74008 15.5996 8.89282C 16.6328 8.88558 17.3444 9.96197 18.426 9.53776L 18.4269 9.69462L 18.4269 9.69462ZM 5.2756 5.82964C 4.54962 5.3573 3.62921 5.80205 2.95261 6.05929C 2.8898 5.42709 2.63175 4.85113 2.09368 4.43454C 2.04148 4.40869 1.96932 4.35432 1.90432 4.35033C 1.86542 4.3479 1.82841 4.3635 1.79967 4.413C 2.04355 5.90567 1.06823 6.94723 0.377075 8.07954C 0.607211 8.26668 0.976945 8.23872 1.25608 8.18372C 1.98877 7.89222 2.68671 7.38486 3.55913 7.55876C 3.81712 7.12132 4.2506 6.6976 4.60603 6.35042C 4.82318 6.16347 5.12151 6.04475 5.2756 5.82964L 5.2756 5.82964ZM 7.49552 6.76708C 7.48159 6.85697 7.50248 7.0172 7.64177 6.95528C 7.85848 6.65672 8.24214 6.89292 8.4793 6.91396L 8.4793 6.82994C 8.34918 6.62663 8.08146 6.52451 7.8096 6.53469C 7.74686 6.53687 7.68311 6.54598 7.62175 6.56015C 7.53078 6.58025 7.46747 6.66309 7.49552 6.76708L 7.49552 6.76708ZM 10.9084 5.87253C 10.7135 5.44188 10.2668 5.2676 9.86143 5.16349C 9.66273 5.13914 9.4565 5.12266 9.25196 5.12073C 9.21363 5.12035 9.17535 5.11985 9.13721 5.12073C 8.56507 5.13221 8.0184 5.27834 7.68443 5.74687C 7.6365 5.87914 7.42575 6.06491 7.62144 6.18344C 8.06119 6.15548 8.563 6.10061 8.85613 6.47607C 8.85613 6.80971 9.07265 7.25359 8.70988 7.41332C 8.40928 7.13642 8.05329 7.53117 7.72622 7.30896C 7.57244 7.21857 7.47513 7.32406 7.41213 7.45596C 7.32122 8.3168 7.77428 9.26685 8.58377 9.7458C 8.91184 9.86353 9.35285 9.97551 9.69523 9.80848C 10.5188 9.42696 10.8599 8.55257 11.0132 7.74696C 10.9927 7.59366 11 7.29491 10.7838 7.28767C 10.5397 7.44129 10.1836 7.35053 9.92486 7.28767C 9.7719 7.33679 9.76487 7.55945 9.59076 7.60165L 9.48467 7.51744C 9.39382 7.13611 9.33779 6.5943 9.6941 6.33045C 10.0923 6.17071 10.5599 6.10092 10.9716 6.22626C 11.0485 6.09443 10.9299 5.99063 10.9084 5.87253L 10.9084 5.87253ZM 10.4882 6.55722C 10.4605 6.55791 10.4336 6.55928 10.4064 6.56015C 10.2602 6.65722 9.83395 6.58743 9.98779 6.91396C 10.2532 6.7051 10.6231 6.85147 10.8883 6.95528C 10.9864 6.90684 10.9651 6.80959 10.9716 6.72576C 10.8864 6.56814 10.683 6.55335 10.4882 6.55722ZM 13.527 3.62132C 13.0104 3.59404 12.5778 3.88579 12.1031 4.01781C 12.0618 3.61595 12.3686 3.19155 12.4387 2.78812C 11.6711 2.83725 11.0632 3.29685 10.4283 3.66401C 10.2814 3.31077 10.134 2.95572 9.98804 2.60117L 10.8256 1.80936L 10.847 1.70506L 9.71575 1.64239C 9.52087 1.30269 9.44407 0.893524 9.21375 0.581045C 9.02528 0.935158 8.89866 1.30993 8.71038 1.66373L 7.58041 1.72659L 7.58041 1.80936L 8.43802 2.57976C 8.33318 2.97576 8.23574 3.40603 7.97775 3.70534C 7.47525 3.4059 6.97991 3.08 6.42898 2.87208C 6.29641 2.82951 6.10743 2.76028 5.98878 2.85073C 6.16302 3.23275 6.40702 3.64366 6.36599 4.06063C 6.13554 4.01844 5.9544 3.87144 5.73788 3.80964C 5.47895 3.73935 5.1717 3.60203 4.92049 3.68555C 5.33935 4.2685 5.68123 4.8786 5.79949 5.58015C 7.18903 4.91293 8.80951 4.54596 10.4916 4.8311C 11.2801 4.95594 12.0051 5.27547 12.7101 5.5387C 12.7377 4.80307 13.2053 4.21194 13.527 3.62132L 13.527 3.62132ZM 15.9132 7.6215C 16.6246 7.80882 17.3382 8.57991 18.0915 8.0796C 17.4354 6.99654 16.459 5.99637 16.7305 4.58004C 16.759 4.48335 16.6962 4.38547 16.6058 4.37174C 16.1802 4.54477 15.8507 4.96193 15.6823 5.37197C 15.613 5.61448 15.572 5.87228 15.4744 6.10086C 14.9646 5.83688 14.4205 5.58114 13.7994 5.64294C 13.5754 5.67072 13.2543 5.68533 13.2129 5.9141C 13.9178 6.28887 14.4975 6.91433 14.9295 7.58036C 15.2303 7.53155 15.5991 7.57325 15.9132 7.6215L 15.9132 7.6215ZM 8.45916 8.60032L 8.47924 8.72585C 8.75198 8.90662 8.83586 9.21298 9.21344 9.18514C 9.54829 9.20493 9.7995 8.89282 9.96633 8.64302C 9.51322 8.58078 8.96185 8.6771 8.45916 8.60032ZM 8.83624 8.03822C 8.84985 8.09384 8.80167 8.17717 8.87777 8.20526C 9.10113 8.15701 9.50575 8.32348 9.63048 8.05963C 9.54339 7.96256 9.40122 7.91849 9.25202 7.91849C 9.10289 7.91849 8.9481 7.96175 8.83624 8.03822L 8.83624 8.03822Z"/>
+<path id="path29_fill" d="M 2.29766e-08 -7.23875e-08L 1.53039 -7.23875e-08L 1.53039 0.62552L 2.29766e-08 0.62552L 2.29766e-08 -7.23875e-08Z"/>
+<path id="path30_fill" d="M 0.0285116 0.175102C 0.226272 0.221668 0.275211 0.291455 0.431499 0.310931C 0.597638 0.307997 0.573671 0.274414 0.863473 0.174915C 0.882484 0.168236 0.908647 0.126477 0.87621 0.0944547C 0.696267 -0.0832575 0.571915 0.0437064 0.459106 0.0470771C 0.309468 0.0487 0.169115 -0.0803866 0.0229273 0.0874008C -0.00198097 0.121483 -0.0149681 0.15494 0.0285116 0.175102Z"/>
+</defs>
+</svg>

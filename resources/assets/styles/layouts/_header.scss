@@ -1,0 +1,15 @@
+.banner {
+  margin: 20px auto;
+
+  hr {
+    border-top: 2px solid rgba(0, 0, 0, 0.1);
+  }
+}
+
+.banner .nav li {
+  @extend .nav-item;
+}
+
+.banner .nav a {
+  @extend .nav-link;
+}
